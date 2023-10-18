@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding-left: 12%;
+    max-width: 75%;
+    background-color: whitesmoke;
+}
+
+.row{
+    margin-left: 1px;
+    margin-right: 157px;
+}
